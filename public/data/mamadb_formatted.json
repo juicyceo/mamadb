@@ -1,1 +1,1542 @@
-[]
+[
+  {
+    "title": "",
+    "provider": "農林水産省",
+    "location": "",
+    "details": "食品企業の製造過程で出る規格外品や食品ロスを引き取り、福祉施設に無料提供する活動",
+    "method": "各地域のフードバンク活動団体一覧や活動実態調査報告書などの情報提供",
+    "period": "情報は2023年3月31日時点で更新\n\n---",
+    "category": "ご飯がない",
+    "url": "https://www.maff.go.jp/j/shokusan/recycle/syoku_loss/foodbank.html"
+  },
+  {
+    "title": "",
+    "provider": "各地方農政局",
+    "location": "",
+    "details": "各地方農政局が独自のフードバンク活動推進を行っており、団体紹介や協力企業情報提供を実施",
+    "method": "各地域のフードバンク活動団体一覧や活動情報 Webページで公開",
+    "period": "情報は該当地域の最新情報に基づく\n\n---",
+    "category": "ご飯がない",
+    "url": "https://www.maff.go.jp/j/shokusan/recycle/syoku_loss/foodbank.html"
+  },
+  {
+    "title": "",
+    "provider": "農林水産省",
+    "location": "",
+    "details": "食品ロス削減に貢献するための税制上の手続きや報告義務について案内",
+    "method": "食品リサイクル法に基づく定期報告や税制関連資料を提供",
+    "period": "情報は最新の税制改正内容に基づく\n\n---\n\n以上がフードバンクに関する支援情報の簡易な要約です。",
+    "category": "ご飯がない",
+    "url": "https://www.maff.go.jp/j/shokusan/recycle/syoku_loss/foodbank.html"
+  },
+  {
+    "title": "",
+    "provider": "一般社団法人全国フードバンク推進協議会",
+    "location": "-",
+    "details": "企業などが提供した食品を必要な施設や団体、困窮世帯に無償で提供する活動",
+    "method": "-",
+    "period": "-",
+    "category": "ご飯がない",
+    "url": "https://www.fb-kyougikai.net/foodbank"
+  },
+  {
+    "title": "",
+    "provider": "一般社団法人全国フードバンク推進協議会",
+    "location": "全国各地域",
+    "details": "各地域で不要な食品の提供を呼びかけ、活動を支援している",
+    "method": "各地域の活動に参加、食品回収BOXへの寄付",
+    "period": "特定の期間は記載なし",
+    "category": "ご飯がない",
+    "url": "https://www.fb-kyougikai.net/foodbank"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国各地域",
+    "details": "行政との連携を強化し、孤立したシングルマザーや子供、高齢者などの困窮世帯を支援",
+    "method": "行政と連携、施設提供先の拡大",
+    "period": "-",
+    "category": "ご飯がない",
+    "url": "https://www.fb-kyougikai.net/foodbank"
+  },
+  {
+    "title": "",
+    "provider": "認定NPO法人 全国こども食堂支援センター・むすびえ",
+    "location": "全国",
+    "details": "こども食堂の支援活動やネットワーク構築を行っています。料理のレシピや運営形態に関する情報も提供しています。",
+    "method": "詳細は公式ウェブサイトをご覧ください。",
+    "period": "不明",
+    "category": "ご飯がない",
+    "url": "https://musubie.org/kodomosyokudo/"
+  },
+  {
+    "title": "",
+    "provider": "こども食堂ネットワーク",
+    "location": "全国",
+    "details": "新たにこども食堂を始めたい方向けの助成プログラム。資金支援とともに立ち上げに関する勉強会やアドバイスを提供しています。",
+    "method": "公式ウェブサイトから詳細を確認し、お問い合わせフォームから申し込みが可能です。",
+    "period": "不明",
+    "category": "ご飯がない",
+    "url": "https://musubie.org/kodomosyokudo/"
+  },
+  {
+    "title": "",
+    "provider": "認定NPO法人 全国こども食堂支援センター・むすびえ",
+    "location": "全国",
+    "details": "むすびえは全国各地のこども食堂ネットワークを支援し、企業・団体とこども食堂とをつなぎ、調査・研究も行っています。",
+    "method": "公式ウェブサイトやお問い合わせフォームを通じて詳細を確認できます。",
+    "period": "不明",
+    "category": "ご飯がない",
+    "url": "https://musubie.org/kodomosyokudo/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "こども食堂ネットワークは、地域でこども食堂を運営している人たちが交流し、こども食堂の輪を広げるための連絡会です。営利目的や特定団体勧誘を目的とするこども食堂の掲載は中止されます。",
+    "method": "参加希望のこども食堂さんは「参加同意書（PDF）」の提出が必要です。ウェブサイト掲載については「ウェブサイト掲載手順（PDF）」を参照してください。",
+    "period": "不明",
+    "category": "ご飯がない",
+    "url": "http://kodomoshokudou-network.com/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "不特定",
+    "details": "炊き出しとは、困窮した人々に料理や食料、生活用品を無償で提供する支援活動です。",
+    "method": "特に記載なし",
+    "period": "特に記載なし\n\n---",
+    "category": "緊急",
+    "url": "https://ja.wikipedia.org/wiki/%E7%82%8A%E3%81%8D%E5%87%BA%E3%81%97"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "不特定",
+    "details": "失業者などに食事を提供するために炊き出しを行う施設で、以前は劣悪な生活環境でスープや粥を提供していた歴史がある。",
+    "method": "特に記載なし",
+    "period": "特に記載なし\n\n---",
+    "category": "緊急",
+    "url": "https://ja.wikipedia.org/wiki/%E7%82%8A%E3%81%8D%E5%87%BA%E3%81%97"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "災害や生活困窮者を対象に日本国内で行われる炊き出しに関する情報",
+    "details": "災害時に避難所や野宿者に対して主食や飲料、生活用品を提供し、相談会等も行われる。地域によっては選挙事務所での炊き出しもある。",
+    "method": "特に記載なし",
+    "period": "特に記載なし\n\n---",
+    "category": "緊急",
+    "url": "https://ja.wikipedia.org/wiki/%E7%82%8A%E3%81%8D%E5%87%BA%E3%81%97"
+  },
+  {
+    "title": "",
+    "provider": "ビッグイシュー基金",
+    "location": "東京",
+    "details": "無料の「炊き出し」や「食堂」「食品提供」をしている民間支援団体情報の提供",
+    "method": "各団体に直接お問い合わせ",
+    "period": "情報提供のみ",
+    "category": "緊急",
+    "url": "https://bigissue.or.jp/action/guide/tokyo_takidashi/"
+  },
+  {
+    "title": "",
+    "provider": "足立野宿者支援の会さくら",
+    "location": "足立区",
+    "details": "食料支援やパトロール、医療相談、福祉活動の提供",
+    "method": "お問い合わせ（電話：080-6758-3347）、メール、Facebook参照",
+    "period": "月1回の日曜日午前または午後",
+    "category": "緊急",
+    "url": "https://bigissue.or.jp/action/guide/tokyo_takidashi/"
+  },
+  {
+    "title": "",
+    "provider": "山谷夜回りの会",
+    "location": "山谷周辺地域",
+    "details": "夜回りによるおむすびや必要品の配布支援",
+    "method": "ウェブサイト（https://yomawari.yomibitoshirazu.com/）参照",
+    "period": "毎月第1・第3木曜の20時～",
+    "category": "緊急",
+    "url": "https://bigissue.or.jp/action/guide/tokyo_takidashi/"
+  },
+  {
+    "title": "",
+    "provider": "認定NPO法人山友会",
+    "location": "隅田川河川敷、台東区",
+    "details": "炊き出しや生活相談の提供",
+    "method": "事務所（電話：0120-973-587）、ウェブサイト（https://www.sanyukai.or.jp/）参照",
+    "period": "食料支援：毎週木曜 14時～14時30分、生活相談：月-金曜 10時～15時",
+    "category": "緊急",
+    "url": "https://bigissue.or.jp/action/guide/tokyo_takidashi/"
+  },
+  {
+    "title": "",
+    "provider": "ほしのいえ",
+    "location": "台東区",
+    "details": "炊き出しの提供",
+    "method": "電話（090-8106-3256）",
+    "period": "毎週火曜 20時～",
+    "category": "緊急",
+    "url": "https://bigissue.or.jp/action/guide/tokyo_takidashi/"
+  },
+  {
+    "title": "",
+    "provider": "セカンドハーベスト・ジャパン",
+    "location": "台東区",
+    "details": "食事提供、食品持ち帰り用袋が必要",
+    "method": "電話（03-5822-5371）、ウェブサイト（https://2hj.org/）参照",
+    "period": "毎週土曜 12時30分～",
+    "category": "緊急",
+    "url": "https://bigissue.or.jp/action/guide/tokyo_takidashi/"
+  },
+  {
+    "title": "",
+    "provider": "一般社団法人あじいる",
+    "location": "隅田公園",
+    "details": "共同炊事の提供",
+    "method": "メール（aji_iru@yahoo.co.jp）、ウェブサイト（https://agile.or.jp/）参照",
+    "period": "毎月第3日曜 15時～",
+    "category": "緊急",
+    "url": "https://bigissue.or.jp/action/guide/tokyo_takidashi/"
+  },
+  {
+    "title": "",
+    "provider": "社会慈業委員会　ひとさじの会",
+    "location": "浅草、山谷地域",
+    "details": "夜回りによる食料配布支援",
+    "method": "電話（080-7683-0347）、メール（hitosajinokai@gmail.com）、ウェブサイト（https://www.hitosaji.jp/）参照",
+    "period": "毎月2回（基本的には第1・第3月曜）20時頃～",
+    "category": "緊急",
+    "url": "https://bigissue.or.jp/action/guide/tokyo_takidashi/"
+  },
+  {
+    "title": "",
+    "provider": "新宿ごはんプラス",
+    "location": "新宿区",
+    "details": "食料提供の支援",
+    "method": "毎週土曜 14時～14時45分",
+    "period": "毎週土曜 14時～14時45分",
+    "category": "緊急",
+    "url": "https://bigissue.or.jp/action/guide/tokyo_takidashi/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "東京都内",
+    "details": "生活保護受給者やホームレス向けに炊き出しを行っている。記事によると、生活保護費を家賃返済に充てる必要があるため、食費が不足している方も多いようだ。",
+    "method": "記事には記載がないが、生活保護を受給している方が利用している可能性が高い。",
+    "period": "特に記載なし",
+    "category": "緊急",
+    "url": "https://news.yahoo.co.jp/articles/fe22f27fea16a3e96378fb440d2ffe4c6cc9e5ce?page=3"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "63歳男性の生活保護受給体験談。申請手続きがそんなに難しくなかったことから、必要な方は気軽に相談することができる。",
+    "method": "生活保護を希望する場合、近くの福祉事務所に相談に行くと良い。",
+    "period": "特に記載なし",
+    "category": "緊急",
+    "url": "https://news.yahoo.co.jp/articles/fe22f27fea16a3e96378fb440d2ffe4c6cc9e5ce?page=3"
+  },
+  {
+    "title": "",
+    "provider": "NPO法人日本もったいない食品センター",
+    "location": "不特定（全国対応）",
+    "details": "主に事業者から廃棄予定の食品を受け取り、生活困窮者へ無償で提供しています。",
+    "method": "申し込みフォームへの記入やFAXでの問い合わせ",
+    "period": "無期限",
+    "category": "ご飯がない",
+    "url": "https://www.mottainai-shokuhin-center.org/support/"
+  },
+  {
+    "title": "",
+    "provider": "NPO法人日本もったいない食品センター",
+    "location": "不特定",
+    "details": "事業者から食品を買い取ったり、寄付したりする相談を受け付けています。",
+    "method": "072-657-7967  電話受付時間：平日10:30～18:30",
+    "period": "無期限",
+    "category": "ご飯がない",
+    "url": "https://www.mottainai-shokuhin-center.org/support/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "不明",
+    "details": "スポーツ大会での弁当配布方法について",
+    "method": "「配布」や「分配」ではなく、「配付」とするのが適切",
+    "period": "特に記載なし",
+    "category": "ご飯がない",
+    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1428044014"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "不明",
+    "details": "サノレックスの摂取とアルコール摂取の関係について",
+    "method": "医者からの指示に従って摂取",
+    "period": "特に記載なし",
+    "category": "ご飯がない",
+    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1428044014"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "不明",
+    "details": "PTA行事での飲み物配布に適した表現について",
+    "method": "「飲み物の配布」という言葉が適切",
+    "period": "特に記載なし",
+    "category": "ご飯がない",
+    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1428044014"
+  },
+  {
+    "title": "",
+    "provider": "フードバンクしばた",
+    "location": "新潟県新発田市",
+    "details": "子ども食堂からお弁当配布に変更。新型コロナウイルス禍で始まった取り組みで、ボランティアが手作りしたお弁当を配布。週に一回、普段より少し豪華なお弁当を目指して作られている。",
+    "method": "支援を必要とする方は、TEL：0254-20-8666 までご連絡いただくか、メールフォームから連絡が可能。受付時間は9:00～18:00。",
+    "period": "不明",
+    "category": "ご飯がない",
+    "url": "https://foodbank-shibata.org/%E3%81%8A%E5%BC%81%E5%BD%93%E9%85%8D%E5%B8%83%E4%BA%8B%E6%A5%AD"
+  },
+  {
+    "title": "",
+    "provider": "NPO法人日本もったいない食品センター",
+    "location": "不特定（日本全国）",
+    "details": "主に事業者から食品危険性のない廃棄品を引き受けて、直接的な食品ロスを減らす活動や啓発活動を行っており、生活に困窮する方々への支援も実施しています。",
+    "method": "生活に困窮し、食料品が必要な方はフォームから連絡するか、電話（072-657-7967）またはFAX（072-657-7923）で相談が可能です。",
+    "period": "不明\n\n具体的な手順：\n1. 福祉施設や他支援団体、個人の方々に無償で食料品を配布。\n2. 食料品が必要な方は、フォームから必要事項を記入し送信するか、電話またはFAXで相談。一週間程度で返信の見込み。\n3. 食品の収支情報や家族構成、収入状況など詳細を入力し、支援の申請。\n4. 支援物資は受け取り拒否などの事態を避けるため、本人への了解を事前に確認。賞味期限切れの品も含まれる可能性があることに留意が必要。",
+    "category": "ご飯がない",
+    "url": "https://www.mottainai-shokuhin-center.org/support/"
+  },
+  {
+    "title": "",
+    "provider": "一般社団法人「最愛の食卓」",
+    "location": "不特定",
+    "details": "企業内で余った食事を必要な人たちに無償提供する取り組み。食品ロス削減を目的とする国内初の試み。",
+    "method": "寺院や教会などに提供される。詳細不明。",
+    "period": "期間不明",
+    "category": "ご飯がない",
+    "url": "https://news.yahoo.co.jp/articles/582c3ef36f1091a4c3fd42e0b50666beab1fdfef"
+  },
+  {
+    "title": "",
+    "provider": "ABEMA TIMES",
+    "location": "全国",
+    "details": "記事やメディアを通じて、様々な支援情報を提供している。",
+    "method": "記事やメディアを閲覧することで支援情報にアクセス可能。",
+    "period": "特定期間の情報も提供されている。\n\n以上が「食品無償提供」に関する支援情報の1件ずつの整理となります。",
+    "category": "ご飯がない",
+    "url": "https://news.yahoo.co.jp/articles/582c3ef36f1091a4c3fd42e0b50666beab1fdfef"
+  },
+  {
+    "title": "",
+    "provider": "困窮者支援情報共有サイト〜みんなつながるネットワーク〜　運営事務局",
+    "location": "",
+    "details": "一時生活支援事業は、住居のない生活困窮者に対して一定期間の宿泊場所や衣食を提供し、その後の生活に向けて就労支援などのサポートも行います。",
+    "method": "",
+    "period": "原則3ヶ月内",
+    "category": "住むところがない",
+    "url": "https://minna-tunagaru.jp/know/kyojyu/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "実施状況や委託先の一覧について内部リンクが提供されています。各地域の支援状況や詳細な情報を確認できます。",
+    "method": "内部リンクからアクセス\n\n以上が「一時的住居支援」に関する支援情報の要点となります。他にも何か知りたい情報があればお知らせください。",
+    "period": "",
+    "category": "住むところがない",
+    "url": "https://minna-tunagaru.jp/know/kyojyu/"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "生活にお困りの方に対して、仕事の支援、家賃の支給、家計立て直しの支援など幅広い支援を提供",
+    "method": "お住まいの地域の自立相談支援機関に相談してください",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "地域の相談窓口で支援プランを作成し、自立に向けた支援を行う",
+    "method": "地域の相談窓口に相談",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "住居を失った方や失うおそれの高い方に家賃相当額を支給し、就職支援を行う",
+    "method": "一定の要件を満たした方が対象",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "就労に向けた基礎能力を育成し、就労機会を提供するプログラムを実施",
+    "method": "直ちに就労が困難な方が対象",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "家計状況の支援計画作成や必要な支援を行い、生活再生を支援",
+    "method": "相談窓口でのアドバイスや支援",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "子どもの学習支援や生活習慣の支援を行い、保護者とともに子どもの未来をサポート",
+    "method": "不明",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "住居のない方に宿泊場所や衣食を提供し、就労支援を行う",
+    "method": "お住まいの地域の自立相談支援機関に問い合わせ",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国",
+    "details": "平成14年8月に成立した特別措置法と基本方針に基づき、ホームレスの自立支援施策を推進しています。最新の基本方針に基づいて、雇用、保健医療、福祉などの施策を総合的に実施しています。",
+    "method": "詳細は厚生労働省のウェブサイトで確認可能です。",
+    "period": "不明\n\n※情報は厚生労働省ウェブサイトの一部を参照しています。",
+    "category": "緊急",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/homeless/index.html"
+  },
+  {
+    "title": "",
+    "provider": "NPO法人ホームレス支援全国ネットワーク",
+    "location": "全国",
+    "details": "特定非営利活動法人が運営する組織で、生活困窮者支援の活動を行っています。2024～2025年の年末年始の支援活動一覧や報告書などの情報が公開されています。",
+    "method": "",
+    "period": "2024～2025年、2023～2024年\n\n---",
+    "category": "緊急",
+    "url": "http://www.homeless-net.org/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "年末年始の生活困窮者支援活動の全国一覧が掲載されており、支援活動に関心のある方に役立つ情報です。",
+    "method": "",
+    "period": "不明\n\n---",
+    "category": "緊急",
+    "url": "http://www.homeless-net.org/"
+  },
+  {
+    "title": "",
+    "provider": "ホームレス支援全国ネットワーク、他3団体",
+    "location": "不明",
+    "details": "2022年11月に厚生労働省に提案された生活困窮者自立支援法改正に向けた提言についての情報があります。",
+    "method": "",
+    "period": "不明\n\n---",
+    "category": "緊急",
+    "url": "http://www.homeless-net.org/"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国",
+    "details": "厚生労働省が提供する相談支援や生活保護に関する情報が案内されており、生活困窮者への支援に役立つ情報です。",
+    "method": "",
+    "period": "不明",
+    "category": "緊急",
+    "url": "http://www.homeless-net.org/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国各地",
+    "details": "DV（家庭内暴力）や性暴力からの被害者を受け入れる施設です。安全な環境で暮らせる支援を提供します。",
+    "method": "直接連絡や関係機関を通じて利用申し込みが可能です。",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%BF%E3%83%BC"
+  },
+  {
+    "title": "",
+    "provider": "各自治体やNPOなど",
+    "location": "地域により異なります",
+    "details": "ホームレスや住居を失った人々に一時的な宿泊場所を提供し、生活支援や再就職支援などのサービスを提供します。",
+    "method": "直接施設に相談して利用方法を確認してください。",
+    "period": "長期的な支援や再就職支援が含まれる場合もあります。",
+    "category": "住むところがない",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%BF%E3%83%BC"
+  },
+  {
+    "title": "",
+    "provider": "Yahoo!天気・災害",
+    "location": "全国",
+    "details": "災害の種類ごとに指定された避難場所を確認できるマップサービス。避難場所に関する情報は全国で随時更新されています。",
+    "method": "インターネットでアクセスし、現在地や都道府県から避難場所を検索できます。",
+    "period": "提供期間は不明。",
+    "category": "住むところがない",
+    "url": "https://crisis.yahoo.co.jp/map/"
+  },
+  {
+    "title": "",
+    "provider": "内閣府",
+    "location": "",
+    "details": "災害の危険から命を守るための指定緊急避難場所について市町村長により指定が行われます。内閣府では指定促進のための手引きを作成しています。",
+    "method": "-",
+    "period": "-",
+    "category": "住むところがない",
+    "url": "https://www.bousai.go.jp/taisaku/hinanbasyo.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "指定緊急避難場所が不足する場合、民間施設も避難場所として検討されることがあります。内閣府ではその事例集を作成しています。",
+    "method": "-",
+    "period": "-",
+    "category": "住むところがない",
+    "url": "https://www.bousai.go.jp/taisaku/hinanbasyo.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "避難場所確保のための補助制度の例がまとめられており、活用可能な情報が提供されています。",
+    "method": "-",
+    "period": "-",
+    "category": "住むところがない",
+    "url": "https://www.bousai.go.jp/taisaku/hinanbasyo.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "津波避難ビル等を活用した津波防災対策に関する情報が提供されています。",
+    "method": "-",
+    "period": "-",
+    "category": "住むところがない",
+    "url": "https://www.bousai.go.jp/taisaku/hinanbasyo.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "住居確保給付金は、離職や解雇、やむを得ない休業などで収入が減少した方に対して、一定の要件を満たす場合に家賃支給を行う支援制度です。",
+    "method": "支給の申請や受け方については、各市区町村の窓口で手続きを行う必要があります。求職活動などの条件もあります。",
+    "period": "支給期間は原則として3か月間で、最大で延長が2回まで、合計9か月間までです。",
+    "category": "住むところがない",
+    "url": "https://corona-support.mhlw.go.jp/jukyokakuhokyufukin/index.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "住居確保給付金を受けるための主な要件として、離職・廃業後2年以内であること、収入や預貯金の条件などがあります。また、求職活動の条件もあることに注意が必要です。",
+    "method": "詳細な要件や申請方法は、各市区町村の窓口で相談するか、厚生労働省のウェブサイト等で確認してください。",
+    "period": "具体的な支給期間は個人の状況や市区町村によって異なりますので、詳細を確認してください。",
+    "category": "住むところがない",
+    "url": "https://corona-support.mhlw.go.jp/jukyokakuhokyufukin/index.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国",
+    "details": "厚生労働省が提供する住宅確保給付金の手続きの流れについて案内しています。",
+    "method": "手続きの流れにそって申請を行う。",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://corona-support.mhlw.go.jp/jukyokakuhokyufukin/flow.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国",
+    "details": "申請時に必要な書類について案内しています。必要な書類は申請先によって異なることがあります。",
+    "method": "申請をする際に所定の書類を提出する。",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://corona-support.mhlw.go.jp/jukyokakuhokyufukin/flow.html"
+  },
+  {
+    "title": "",
+    "provider": "",
+    "location": "",
+    "details": "シェアハウスに興味がある方に、空き家を活用したシェアハウスの事例を紹介しています。",
+    "method": "",
+    "period": "",
+    "category": "緊急",
+    "url": "https://roopt.jp/column/akiya-sharehouse/"
+  },
+  {
+    "title": "",
+    "provider": "",
+    "location": "",
+    "details": "シェアハウスとは、一つの住居を複数人で共有して暮らす賃貸物件のことです。キッチンやリビング、バスルームを共有し、個室を利用します。",
+    "method": "",
+    "period": "",
+    "category": "緊急",
+    "url": "https://roopt.jp/column/akiya-sharehouse/"
+  },
+  {
+    "title": "",
+    "provider": "",
+    "location": "",
+    "details": "シェアハウスでの生活メリットについて解説しています。家賃が安い、仲介手数料が不要などの魅力があります。",
+    "method": "",
+    "period": "",
+    "category": "緊急",
+    "url": "https://roopt.jp/column/akiya-sharehouse/"
+  },
+  {
+    "title": "",
+    "provider": "",
+    "location": "",
+    "details": "空き家を活用してシェアハウスを始めるメリットを紹介しています。初期投資が減る、リノベーション段階からコミュニティ醸成ができる、地域貢献につながる点が挙げられています。",
+    "method": "",
+    "period": "",
+    "category": "緊急",
+    "url": "https://roopt.jp/column/akiya-sharehouse/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "東京都三鷹市",
+    "details": "築約60年の空き家を地域住民とリノベーションして運営されているシェアハウスで、地域と入居者が繋がる拠点として活動しています。",
+    "method": "HPで詳細確認可能",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://roopt.jp/column/akiya-sharehouse/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "東京都世田谷区",
+    "details": "スパイスダイニング、ブックカフェ、イベントスペース、シェアハウスを複合施設として運営しており、入居者に新たな出会いを提供しています。",
+    "method": "HPで詳細確認可能",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://roopt.jp/column/akiya-sharehouse/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "東京都文京区",
+    "details": "パーソナルトレーナー付きのシェアハウスで、トレーニングジム併設しています。20-30代男性をターゲットにして運営されています。",
+    "method": "HPで詳細確認可能",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://roopt.jp/column/akiya-sharehouse/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "和歌山県和歌山市",
+    "details": "和歌山市で学生専用のシェアハウスが整備されており、まちなか空き家の学生専用シェアハウス整備補助事業の一環として運営されています。",
+    "method": "詳細不明",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://roopt.jp/column/akiya-sharehouse/"
+  },
+  {
+    "title": "",
+    "provider": "ハロー! RENOVATION",
+    "location": "不特定",
+    "details": "空き家や遊休不動産を活用して地域活性化に貢献するサービスを紹介",
+    "method": "ウェブサイト「https://hello-renovation.jp」にアクセスして詳細を確認",
+    "period": "2024年8月15日まで提供\n\n---",
+    "category": "緊急",
+    "url": "https://hello-renovation.jp/topics/detail/17544"
+  },
+  {
+    "title": "",
+    "provider": "Airbnb Japan",
+    "location": "不特定",
+    "details": "世界中の宿泊施設を信じられない価格で提供",
+    "method": "Airbnbのウェブサイト（https://www.airbnb.jp）で予約",
+    "period": "提供中\n\n---",
+    "category": "緊急",
+    "url": "https://hello-renovation.jp/topics/detail/17544"
+  },
+  {
+    "title": "",
+    "provider": "ADDress",
+    "location": "不特定",
+    "details": "複数の会員が居住空間をシェアしながら滞在するサービス",
+    "method": "ADDressのウェブサイト（https://address.love）で会員登録",
+    "period": "提供中\n\n---",
+    "category": "緊急",
+    "url": "https://hello-renovation.jp/topics/detail/17544"
+  },
+  {
+    "title": "",
+    "provider": "LIFULL",
+    "location": "日本全国（拠点による）",
+    "details": "社会課題の解決に取り組むコミュニティ",
+    "method": "LivingAnywhere Commonsのウェブサイト（https://livinganywherecommons.com）で詳細を確認",
+    "period": "提供中\n\n---",
+    "category": "緊急",
+    "url": "https://hello-renovation.jp/topics/detail/17544"
+  },
+  {
+    "title": "",
+    "provider": "XROSS HOUSE",
+    "location": "東京都内",
+    "details": "都内に約200のシェアハウスなどを運営",
+    "method": "クロスハウスのウェブサイト（https://x-house.co.jp）で空室状況を確認",
+    "period": "提供中",
+    "category": "緊急",
+    "url": "https://hello-renovation.jp/topics/detail/17544"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "空き家のオーナーがシェアハウスへの活用に興味がある方を支援するプログラムです。",
+    "method": "オンラインでの申込みが可能です。",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/content/001727459.pdf"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "特定の都道府県（例：長野県）",
+    "details": "空き家シェアの体験ができるツアーを実施しています。空き家活用のメリットや方法を学ぶことができます。",
+    "method": "事前に予約が必要です。",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/content/001727459.pdf"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国各地の自治体で実施されています。",
+    "details": "生活困窮者自立支援制度は、生活に困っている方々に対して仕事の支援、住まいの支援、家計の立て直しの支援など様々な支援を提供する制度です。",
+    "method": "相談窓口に相談することで、自身の状況に合わせた支援を受けることができます。",
+    "period": "",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "自立相談支援事業では、相談を受けて支援プランを作成し、自立に向けた支援を行います。",
+    "method": "地域の相談窓口に相談して、支援プランを立てることができます。",
+    "period": "特に期間は記載されていません。支援の必要な時に利用可能です。",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "日本全国で実施されています。",
+    "details": "失業や離職により住居を失った方に、一定期間家賃相当額を支給します。就職支援も行います。",
+    "method": "資産収入要件を満たす方が対象で、地域の自立相談支援機関にお問い合わせが必要です。",
+    "period": "",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html"
+  },
+  {
+    "title": "",
+    "provider": "一般社団法人 生活困窮者自立支援全国ネットワーク",
+    "location": "全国（各自治体の窓口があり）",
+    "details": "生活困窮者自立支援制度は、経済的に困窮し最低限度の生活を維持することができない方に包括的な支援を提供する制度です。就労、住まい、家計などの課題に対応し、自立支援を行います。",
+    "method": "各自治体の自立相談支援窓口に相談する",
+    "period": "",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/know/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "離職などで住むところがなくなった方や、住む場所を失うおそれが高い方に一定期間、家賃相当額を支給し、住居を確保する支援を提供します。就職をサポートします。",
+    "method": "各自治体で手続きを行う",
+    "period": "",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/know/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "社会復帰に不安を抱える方に、一般就労に向けたサポートや就労機会を提供します。就労訓練事業も行われ、柔軟な働き方を提供します。",
+    "method": "地域の相談窓口に相談し、プログラムに参加",
+    "period": "",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/know/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "家計状況の支援や支援計画の作成、支援機関への誘導を行い、生活再生をサポートします。",
+    "method": "各自治体の窓口で相談",
+    "period": "",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/know/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "子どもの学習支援や生活習慣の支援を行い、子どもと保護者に対して必要な支援を提供します。進学支援も行います。",
+    "method": "地域の相談窓口で相談",
+    "period": "",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/know/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "緊急に住まいが必要な方に対して宿泊場所や衣食を提供し、就労支援などのサポートを行います。",
+    "method": "各自治体の窓口で申し込み",
+    "period": "",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/know/"
+  },
+  {
+    "title": "",
+    "provider": "一般社団法人 生活困窮者自立支援全国ネットワーク",
+    "location": "",
+    "details": "生活困窮者自立支援制度に関する情報や活動、各事業の実施状況や支援実績などの情報提供",
+    "method": "ウェブサイトで情報提供",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "生活困窮者自立支援制度支援員のための育成に関するガイドブックの作成およびオンライン活用説明会の開催について",
+    "method": "情報提供",
+    "period": "2025年03月10日開催（申込締め切り：3/5 18時）",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/"
+  },
+  {
+    "title": "",
+    "provider": "京都府",
+    "location": "",
+    "details": "令和7年度生活困窮者自立支援制度に係る事業で、こどもの学習・生活支援事業の公募型プロポーザル",
+    "method": "申込方法は公告を確認",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/"
+  },
+  {
+    "title": "",
+    "provider": "NPO法人抱樸",
+    "location": "",
+    "details": "居住サポート住宅に関する研修会",
+    "method": "セミナー参加方法は主催団体に問い合わせ",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "生活に困っている方向けの相談窓口情報がSNSで公開されており、生活困窮を理由とする「闇バイト」に応募する前に相談する呼びかけがある",
+    "method": "SNSでの情報提供",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国",
+    "details": "新型コロナウイルス感染症の影響で収入が減少し、緊急かつ一時的な生計維持のため20万円以内の貸付を受けられる支援",
+    "method": "市区町村社会福祉協議会へ申し込み（ウェブサイトや電話で確認）",
+    "period": "特例措置として、償還を免除し、2年以内の償還期限を設けている",
+    "category": "お金がない",
+    "url": "https://corona-support.mhlw.go.jp/seikatsufukushi/samout/index.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "緊急かつ一時的に生計が困難になった場合、少額の費用を貸し付ける支援",
+    "method": "City, ward, town, or village social welfare council",
+    "period": "1年以内の据置期間、2年以内の償還期限、無利子・保証人不要",
+    "category": "お金がない",
+    "url": "https://corona-support.mhlw.go.jp/seikatsufukushi/samout/index.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国",
+    "details": "新型コロナウイルス感染症の影響で収入が減少した世帯向けに、生活費の一時的支援を行っていましたが、申請期間が終了したことを通知しています。",
+    "method": "申請期限等の詳細は都道府県社会福祉協議会からの案内を参照",
+    "period": "2022年9月30日をもって申請を終了",
+    "category": "お金がない",
+    "url": "https://corona-support.mhlw.go.jp/seikatsufukushi/index.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国",
+    "details": "緊急小口資金や総合支援資金を受け取った方で、所得が減少し住民税非課税の世帯に返済免除を提供していることを通知",
+    "method": "社会福祉協議会に申請が必要",
+    "period": "申請期限等は社会福祉協議会からの案内による",
+    "category": "お金がない",
+    "url": "https://corona-support.mhlw.go.jp/seikatsufukushi/index.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "生活保護は、資産や能力をすべて活用してもなお生活困窮している人に、最低限度の生活を保障する制度です。支給される保護費は地域や世帯の状況によって異なります。",
+    "method": "生活保護の相談や申請は、現在お住まいの地域を所管する福祉事務所の担当者に行います。",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "子どもの進学・進路に関する支援や情報を提供するプログラム「○カツ！」があります。",
+    "method": "詳細な申し込み方法は不明です。",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "生活困窮者向けの無料または低額の宿泊所や日常生活支援住居施設を利用することができます。",
+    "method": "利用方法や申し込み手続きについては、各施設に直接問い合わせが必要です。",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "生活困窮者や被保護者への健康管理支援を行う事業が提供されています。",
+    "method": "具体的な受け方や申請方法は詳細が不明です。",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "医療扶助を受ける資格のオンラインでの確認サービスが提供されています。",
+    "method": "オンラインで資格確認をする手続きについては、詳細な情報が必要です。",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "日本全国",
+    "details": "生活保護の申請についての誤解を解消し、必要な支援を提供します。",
+    "method": "お住まいの自治体の福祉事務所にご相談することで申請手続きを行うことができます。",
+    "period": "期間は特に記載されていませんが、随時受け付けていると思われます。",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "日本全国",
+    "details": "生活保護に関する相談窓口を探すことができます。",
+    "method": "福祉事務所一覧のExcelファイルをダウンロードして、お近くの窓口を探すことができます。",
+    "period": "期間は特に記載されていませんが、随時利用可能です。",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsuhogopage.html"
+  },
+  {
+    "title": "",
+    "provider": "LITALICOワークス",
+    "location": "全国各地に事業所があります",
+    "details": "障害者の方が一般企業への就職を目指すための支援サービスを提供",
+    "method": "相談・見学予約、無料イベント参加",
+    "period": "定期開催の相談会やイベントあり",
+    "category": "お金がない",
+    "url": "https://works.litalico.jp/syuro_shien/"
+  },
+  {
+    "title": "",
+    "provider": "LITALICOワークス",
+    "location": "全国に展開",
+    "details": "障害のある方の「働きたい」をサポートする事業所で、就職支援やカリキュラムを提供",
+    "method": "事業所を探す",
+    "period": "常時受け付け",
+    "category": "お金がない",
+    "url": "https://works.litalico.jp/syuro_shien/"
+  },
+  {
+    "title": "",
+    "provider": "LITALICOワークス",
+    "location": "不明",
+    "details": "障害のある方がLITALICOワークスから就職した事例を紹介しています",
+    "method": "ウェブサイトで閲覧",
+    "period": "随時更新",
+    "category": "お金がない",
+    "url": "https://works.litalico.jp/syuro_shien/"
+  },
+  {
+    "title": "",
+    "provider": "LITALICOワークス",
+    "location": "開催地による",
+    "details": "相談会やイベントに参加して障害者の就労支援について理解を深めることができます",
+    "method": "イベント参加申込み",
+    "period": "定期開催\n\n以上が「就労支援」に関する支援情報となります。",
+    "category": "お金がない",
+    "url": "https://works.litalico.jp/syuro_shien/"
+  },
+  {
+    "title": "",
+    "provider": "障がい者就労移行支援のCocorport",
+    "location": "",
+    "details": "障がいのある方への支援サービスであり、障がい者総合支援法に基づいて提供される",
+    "method": "資料請求や相談を通じて利用可能",
+    "period": "提供期間は原則2年",
+    "category": "お金がない",
+    "url": "https://www.cocorport.co.jp/about_ikou/about_shurou/"
+  },
+  {
+    "title": "",
+    "provider": "障がい者就労移行支援のCocorport",
+    "location": "",
+    "details": "企業での就労が難しい障がい者に対して提供される支援で、継続的な就労を目指す",
+    "method": "原則的に雇用契約ありで提供される",
+    "period": "利用期間は設定されていない",
+    "category": "お金がない",
+    "url": "https://www.cocorport.co.jp/about_ikou/about_shurou/"
+  },
+  {
+    "title": "",
+    "provider": "障がい者就労移行支援のCocorport",
+    "location": "",
+    "details": "条件なしで就労が困難な障がい者に対して提供される支援で、継続的な就労を目指す",
+    "method": "雇用契約が原則的にあり、制限なく提供される",
+    "period": "利用期間は設定されていない",
+    "category": "お金がない",
+    "url": "https://www.cocorport.co.jp/about_ikou/about_shurou/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "家計状況の「見える化」や支援計画の作成を行い、家計管理能力を向上させる支援を提供します。滞納解消や債務整理、給付制度の利用支援なども行います。",
+    "method": "家計に問題を抱える方が相談し、アセスメントを受け家計の状況を分析。必要に応じて相談支援、貸付の手配などを受けることができます。",
+    "period": "不明\n\n以上が家計改善支援事業に関する情報です。",
+    "category": "お金がない",
+    "url": "https://minna-tunagaru.jp/know/kakeikaizen/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "オンライン（Webサイト）",
+    "details": "相談者とともにすすめる『家計改善⽀援』の基本的な考え方や流れを学ぶ",
+    "method": "オンライン学習サイトで動画や手引書を利用",
+    "period": "提供期間は不明\n\n---",
+    "category": "お金がない",
+    "url": "https://www.greencoop.or.jp/kakei/02_basic.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "相談所や役所内の生活支援課など",
+    "details": "初回面談時の基本的な注意点や相談者への対応方法を学ぶ",
+    "method": "面談開始前の準備や接し方に関する指針を学習する",
+    "period": "不特定の日程にて実施可能\n\n---",
+    "category": "お金がない",
+    "url": "https://www.greencoop.or.jp/kakei/02_basic.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "相談所や支援機関",
+    "details": "相談者と協力して家計の収支状況を把握するための表の作り方を学ぶ",
+    "method": "相談者と共に実際に家計表を作成するプロセスを学ぶ",
+    "period": "不特定の日程にて実施可能",
+    "category": "お金がない",
+    "url": "https://www.greencoop.or.jp/kakei/02_basic.html"
+  },
+  {
+    "title": "",
+    "provider": "こども家庭庁",
+    "location": "",
+    "details": "児童扶養手当法の制度概要をPDFで提供している。",
+    "method": "ホームページからアクセス可能。",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.cfa.go.jp/policies/hitori-oya/fuyou-teate"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "障害年金を受給しているひとり親家庭が児童扶養手当を受給できるよう支援を見直す。",
+    "method": "不明",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.cfa.go.jp/policies/hitori-oya/fuyou-teate"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "公的年金と児童扶養手当の両方を受給する場合は手続きが必要。",
+    "method": "不明",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.cfa.go.jp/policies/hitori-oya/fuyou-teate"
+  },
+  {
+    "title": "",
+    "provider": "内閣府男女共同参画局",
+    "location": "全国（所在地非公開）",
+    "details": "民間団体によって運営される暴力被害者のための施設で、一時的な避難、相談対応、自立支援などを提供",
+    "method": "直接連絡、指定相談機関からの紹介",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.gender.go.jp/policy/no_violence/e-vaw/soudankikan/05.html"
+  },
+  {
+    "title": "",
+    "provider": "内閣府男女共同参画局",
+    "location": "不明",
+    "details": "被害者の要望に応じた支援方法や相談機関の情報が提供されています。配偶者から逃げたい場合についての支援内容が含まれています。",
+    "method": "緊急避難や一時的な保護を必要とする場合は、最寄りの警察署や配偶者暴力相談支援センターに相談することができます。",
+    "period": "提供期間不明",
+    "category": "住むところがない",
+    "url": "https://www.gender.go.jp/policy/no_violence/e-vaw/siensya/03.html"
+  },
+  {
+    "title": "",
+    "provider": "内閣府男女共同参画局",
+    "location": "不明",
+    "details": "暴力を受けた場合、緊急に避難するために最寄の警察署や交番に駆け込む方法が紹介されています。",
+    "method": "被害を受けた際に最寄の警察署か交番に直接相談し、緊急避難の支援を受けることができます。",
+    "period": "提供期間不明",
+    "category": "住むところがない",
+    "url": "https://www.gender.go.jp/policy/no_violence/e-vaw/siensya/03.html"
+  },
+  {
+    "title": "",
+    "provider": "内閣府男女共同参画局",
+    "location": "不明",
+    "details": "暴力を受けた場合、一時的に別の場所に避難するための支援情報が提供されています。被害者が一時的な保護を必要とする際の方法が記載されています。",
+    "method": "必要があれば、配偶者暴力相談支援センターなどに相談し、一時的な保護を受けることができます。",
+    "period": "提供期間不明",
+    "category": "住むところがない",
+    "url": "https://www.gender.go.jp/policy/no_violence/e-vaw/siensya/03.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "DV被害を受けている方を一時的に保護する施設",
+    "method": "窓口への相談",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.fukuoka-dvmora.com/1325/1325009v/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "DVシェルターへの入居条件や制限事項",
+    "method": "緊急性がある場合に入居",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.fukuoka-dvmora.com/1325/1325009v/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "DVシェルターへの相談から入居までの手順",
+    "method": "窓口への相談",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.fukuoka-dvmora.com/1325/1325009v/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "滞在期間、生活ルール、子どもの連れ込みについて",
+    "method": "DVシェルターへ入居",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.fukuoka-dvmora.com/1325/1325009v/"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "入居のメリット（身の安全確保、無料又は低額利用、サポート）とデメリット（入居制限、生活制約）",
+    "method": "DVシェルターの利用",
+    "period": "不明",
+    "category": "住むところがない",
+    "url": "https://www.fukuoka-dvmora.com/1325/1325009v/"
+  },
+  {
+    "title": "",
+    "provider": "総務省消防庁",
+    "location": "全国",
+    "details": "急なケガや病気の際に、救急車を呼んだり病院を受診するか迷った時に、専門家に電話相談できるサービス。医師や看護師が症状を聞いて適切な対応をアドバイスします。",
+    "method": "電話（電話番号：#7119）",
+    "period": "提供期間は未記載",
+    "category": "緊急",
+    "url": "https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html"
+  },
+  {
+    "title": "",
+    "provider": "総務省消防庁",
+    "location": "全国各地の特定エリア",
+    "details": "救急安心センター事業（#7119）が運営されている地域の一覧を提供しており、お住まいのエリアを確認して相談できるかを確認できます。",
+    "method": "自身の地域の対応するセンターに直接問い合わせ",
+    "period": "提供期間は未記載",
+    "category": "緊急",
+    "url": "https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "♯7119は、一部地域で実施されている緊急電話相談サービスです。電話で医師や看護師などの専門家に相談することができ、症状や適切な対処方法をアドバイスしてもらえます。",
+    "method": "電話番号「♯7119」で相談可能。相談員が症状を聞取りし、緊急性を判断して適切な対処方法や受診のタイミングをアドバイス。",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://kakarikata.mhlw.go.jp/kakaritsuke/7119.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "厚生労働省が展開している、医療のかかり方に関する情報提供プロジェクトです。かかりつけ医や救急車の適切な利用方法などを紹介しています。",
+    "method": "ウェブサイトで情報提供。お問い合わせはinfo@mail.kakarikata.mhlw.go.jpまで。",
+    "period": "受付時間：10:00～17:00 土・日・祝日・年末年始12/28~1/5を除く",
+    "category": "緊急",
+    "url": "https://kakarikata.mhlw.go.jp/kakaritsuke/7119.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "緊急安心センター事業は、「♯7119」を通じて緊急時に医師や看護師に電話相談できるサービスです。症状や受診の必要性を判断し、アドバイスを提供します。",
+    "method": "電話番号「♯7119」で利用可能。地域により実施状況が異なるため、詳細は公式ウェブサイトを参照。",
+    "period": "不明\n\nご質問がありましたらお知らせください。",
+    "category": "緊急",
+    "url": "https://kakarikata.mhlw.go.jp/kakaritsuke/7119.html"
+  },
+  {
+    "title": "",
+    "provider": "東京消防庁",
+    "location": "東京都",
+    "details": "急な病気やけがをして病院へ行くか迷った際の相談窓口。相談医療チームが24時間365日対応。",
+    "method": "#7119を通じて症状に応じた質問に答え、受診の必要性などアドバイスを得ることができる。",
+    "period": "無期限",
+    "category": "緊急",
+    "url": "https://www.tfd.metro.tokyo.lg.jp/ts/ems/page03.html"
+  },
+  {
+    "title": "",
+    "provider": "東京消防庁",
+    "location": "東京都内の医療機関",
+    "details": "東京都医師会と連携し、救急相談医を派遣している医療機関に証明書を交付。適切な医師を派遣する医療機関を表彰。",
+    "method": "不明",
+    "period": "無期限",
+    "category": "緊急",
+    "url": "https://www.tfd.metro.tokyo.lg.jp/ts/ems/page03.html"
+  },
+  {
+    "title": "",
+    "provider": "日本ユニセフ協会",
+    "location": "",
+    "details": "地震で被災した人への緊急・復興支援活動を支える募金です。",
+    "method": "ユニセフ協会にお寄せいただきました募金は現地事務所に送られ、被害にあった子ども達のために活用されます。",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.unicef.or.jp/kinkyu/"
+  },
+  {
+    "title": "",
+    "provider": "日本ユニセフ協会",
+    "location": "",
+    "details": "危機下にあるガザの子どもたちやその家族を支援するための募金です。",
+    "method": "不明",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.unicef.or.jp/kinkyu/"
+  },
+  {
+    "title": "",
+    "provider": "日本ユニセフ協会",
+    "location": "",
+    "details": "危機下にあるウクライナの子どもたちやその家族を支援するための募金です。",
+    "method": "不明",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.unicef.or.jp/kinkyu/"
+  },
+  {
+    "title": "",
+    "provider": "日本ユニセフ協会",
+    "location": "",
+    "details": "武力紛争により避難を強いられているシリアの子どもたちと家族を支援する募金です。",
+    "method": "不明",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.unicef.or.jp/kinkyu/"
+  },
+  {
+    "title": "",
+    "provider": "日本ユニセフ協会",
+    "location": "",
+    "details": "地震や津波、洪水、台風、サイクロン、干ばつなどの自然災害で被災した人への緊急・復興支援活動を支える募金です。",
+    "method": "不明",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.unicef.or.jp/kinkyu/"
+  },
+  {
+    "title": "",
+    "provider": "日本ユニセフ協会",
+    "location": "",
+    "details": "戦争や武力紛争の影響を受けている子どもたちへの緊急・復興支援活動を支える募金です。",
+    "method": "不明",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.unicef.or.jp/kinkyu/"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国",
+    "details": "一時保護の目的は子どもの生命の安全を守ることであり、現状の環境が子どものウェルビーイングに害を及ぼす可能性がある場合に行われます。子どもの安全確保後、虐待の調査や保護者への支援が行われます。",
+    "method": "緊急一時保護の必要性は児童虐待法に基づき判断され、速やかに行われます。通告段階で緊急性がある場合には、24時間体制で対応されます。",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/bunya/kodomo/dv12/05.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "全国",
+    "details": "虐待が疑われる場合、緊急かつ組織的な対応が必要です。事前に同行する職員との打ち合わせや立入調査の実施など、スムーズな対応が重要です。アセスメントシートを用いて保護の必要性を判断します。",
+    "method": "虐待疑惑の通告に対する迅速な情報収集や安全確認、立入調査などが行われます。",
+    "period": "不明",
+    "category": "お金がない",
+    "url": "https://www.mhlw.go.jp/bunya/kodomo/dv12/05.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "全国",
+    "details": "緊急時に一時保護を必要とする人に対して施設や避難所を提供します。",
+    "method": "直接施設に問い合わせるか、地域の福祉事務所や緊急連絡先に連絡することで利用できます。",
+    "period": "常時対応可能です。",
+    "category": "お金がない",
+    "url": "https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/6cdc3da2-ca5d-4fd3-8b4f-a4ae1b33cc2b/6ce3a299/20230401_councils_Judicial-Review-Working-Team-on-Temporary-Protection_03.pdf"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "女性支援新法に基づき、各都道府県に設置されており、配偶者からの暴力被害者など困難な問題を抱える女性に相談に応じる窓口です。",
+    "method": "面接相談や電話相談が可能です。",
+    "period": "特に記載はなし。",
+    "category": "緊急",
+    "url": "https://www.gender.go.jp/policy/no_violence/e-vaw/soudankikan/02.html"
+  },
+  {
+    "title": "",
+    "provider": "各都道府県",
+    "location": "",
+    "details": "困難な問題を抱える女性の悩みに関する相談と支援を行う機関",
+    "method": "#8778（はなそうなやみ）へ電話し、各都道府県の女性相談支援センターへアクセス",
+    "period": "継続的に提供",
+    "category": "緊急",
+    "url": "https://www.mhlw.go.jp/stf/newpage_40452.html"
+  },
+  {
+    "title": "",
+    "provider": "東京都",
+    "location": "東京都",
+    "details": "女性のための相談支援センター",
+    "method": "電話番号：03-5261-3110",
+    "period": "継続的に提供",
+    "category": "緊急",
+    "url": "https://www.mhlw.go.jp/stf/newpage_40452.html"
+  },
+  {
+    "title": "",
+    "provider": "神奈川県",
+    "location": "神奈川県",
+    "details": "女性相談支援センター",
+    "method": "電話番号：0570-550-594",
+    "period": "継続的に提供",
+    "category": "緊急",
+    "url": "https://www.mhlw.go.jp/stf/newpage_40452.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "女性支援事業では、「女性の福祉」、「人権の尊重や擁護」、「男女平等」などの視点から、困難な問題を抱える女性に切れ目のない包括的な支援を行います。",
+    "method": "相談は専用サイトや相談支援センターを通じて受けることができます。",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/dv/index_00023.html"
+  },
+  {
+    "title": "",
+    "provider": "厚生労働省",
+    "location": "",
+    "details": "女性支援特設サイトで、さまざまな悩みに関する相談や悪質ホストクラブ対策などの情報提供を行っています。",
+    "method": "ウェブサイトで利用可能",
+    "period": "不明",
+    "category": "緊急",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/dv/index_00023.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "不特定",
+    "details": "たとえその人が自殺を真剣に考えていない，あるいは注意を引きたいだけだと思われても，自殺の警告サインや自殺を図るという脅しを，必ず真剣に受けとめてください。次の3つのステップに従って支援を申し出てください—尋ねる，気遣う，話す。",
+    "method": "ステップ1：尋ねる。 / ステップ2：気遣う。 / ステップ3：話す。",
+    "period": "期間不明",
+    "category": "緊急",
+    "url": "https://www.churchofjesuschrist.org/study/manual/suicide-how-to-help/how-to-help-someone-in-crisis?lang=jpn"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "不特定",
+    "details": "自殺を考えている場合の行動方法を説明しています。誰かが自殺について考えている場合のステップを具体的に提示しています。",
+    "method": "個々の状況に合わせて対応。",
+    "period": "不特定",
+    "category": "緊急",
+    "url": "https://www.churchofjesuschrist.org/study/manual/suicide-how-to-help/how-to-help-someone-in-crisis?lang=jpn"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "不特定",
+    "details": "自殺予防のための安全計画の立て方を説明しています。具体的な行動計画を作成し、自傷行為を防ぐ方法を共有しています。",
+    "method": "個別に相談、自身で計画を作成し実行。",
+    "period": "不特定",
+    "category": "緊急",
+    "url": "https://www.churchofjesuschrist.org/study/manual/suicide-how-to-help/how-to-help-someone-in-crisis?lang=jpn"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "ステーク会長，ビショップ，支部会長向け",
+    "details": "危機的状況にある人への支援を提供する福祉ヘルプラインです。地域の指導者や関係者が利用することができます。",
+    "method": "対象者によって異なる。",
+    "period": "利用可能な限り",
+    "category": "緊急",
+    "url": "https://www.churchofjesuschrist.org/study/manual/suicide-how-to-help/how-to-help-someone-in-crisis?lang=jpn"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "危機介入を行う際の基本的な流れを解説しています。危機の内容とレベルの査定から支援チームの組成、介入計画の立案、対象者の範囲などを明確に示しています。",
+    "method": "文中に記載された具体的なステップに従って行う。",
+    "period": "",
+    "category": "緊急",
+    "url": "https://sheport.co.jp/site/mcpo/materials/stream.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "危機状況下でのストレス症状や心理的なケアに関する資料です。身体的・心理的な安全確保、気持ちの整理、リラクゼーションなどの方法が記載されています。",
+    "method": "資料を参照してストレス症状に応じたケアを実施する。",
+    "period": "",
+    "category": "緊急",
+    "url": "https://sheport.co.jp/site/mcpo/materials/stream.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "支援者自身の心理的ケアに関する資料で、CIS（Critical Incident Stress）とはどのようなものか、支援者が気持ちを整理しストレスに対処する方法が記載されています。",
+    "method": "資料を参照して支援者の心のケアに取り組む。",
+    "period": "",
+    "category": "緊急",
+    "url": "https://sheport.co.jp/site/mcpo/materials/stream.html"
+  },
+  {
+    "title": "",
+    "provider": "不明",
+    "location": "",
+    "details": "子どもの危機状況下でのストレス反応や心理的な応急処置についての資料です。子どもの心のケアのための具体的なアプローチが示されています。",
+    "method": "資料を参照して子どもに合った適切なケアを提供する。",
+    "period": "",
+    "category": "緊急",
+    "url": "https://sheport.co.jp/site/mcpo/materials/stream.html"
+  },
+  {
+    "title": "",
+    "provider": "テキサナ センター",
+    "location": "",
+    "details": "知的障害、発達障害、自閉症、困難な行動の診断を受けた XNUMX 歳以上の個人に危機サービスを提供。目的は行動の安定化と入院・投獄の回避。",
+    "method": "サポート問い合わせ先: メアリー・アン・ヘルムズ (281) 239-1333, maryanne.helms@texanacenter.com",
+    "period": "",
+    "category": "緊急",
+    "url": "https://www.texanacenter.com/ja/services/autism-aba-services/developmental-disabilities-autism-crisis-services/"
+  },
+  {
+    "title": "",
+    "provider": "テキサナ センター",
+    "location": "",
+    "details": "危機事象の予防、対処スキル促進、個人の成功を支援。フォローアップと再発予防も提供。",
+    "method": "不明",
+    "period": "",
+    "category": "緊急",
+    "url": "https://www.texanacenter.com/ja/services/autism-aba-services/developmental-disabilities-autism-crisis-services/"
+  },
+  {
+    "title": "",
+    "provider": "テキサナ センター",
+    "location": "",
+    "details": "介護者の一時的な休息を必要とする個人にサービス提供。他の個人と共同生活の家庭環境での一時的な配置を行う。",
+    "method": "事前承認が必要な申請プロセスあり。テキサナの連絡先: 2330 グレーバー ロード, ローゼンバーグ、テキサス州 77471\n\n上記が危機的状況支援に関する情報です。",
+    "period": "",
+    "category": "緊急",
+    "url": "https://www.texanacenter.com/ja/services/autism-aba-services/developmental-disabilities-autism-crisis-services/"
+  }
+]
